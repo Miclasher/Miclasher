@@ -1,5 +1,3 @@
-<!-- Fancy, Dark & Professional GitHub Profile README for Miclasher -->
-
 <h1 align="center">👋 Hi, I'm <span style="color:#4F9EC4;">Mykhailo Gerilovych</span></h1>
 <h3 align="center">C# / .NET Developer | Crafting scalable backend systems with clean architecture and solid code.</h3>
 
@@ -14,13 +12,10 @@ namespace Miclasher
         public string Name => "Mykhailo Gerilovych";
         public string Role => "C# / .NET Developer";
         public string Passion => "Building robust, elegant systems that just work.";
-        public string Motto => "Write code that feels right, not just runs right.";
     }
 }
 ```
 🧠 Tech Stack
-text
-Копировать код
 Languages:       C#, HTML, CSS, SQL
 Frameworks:      .NET 8, ASP.NET Core, EF Core, Blazor, WPF
 Architecture:    Onion Architecture, REST APIs, JWT Auth
