@@ -15,7 +15,7 @@ namespace Miclasher
     }
 }
 ```
-🧠 Tech Stack
+###🧠 Tech Stack
 Languages:       C#, HTML, CSS, SQL
 Frameworks:      .NET 8, ASP.NET Core, EF Core, Blazor, WPF
 Architecture:    Onion Architecture, REST APIs, JWT Auth
@@ -24,7 +24,7 @@ Tools:           Git, Swagger, Postman, Azure, Monobank API, Telegram API
 Databases:       Microsoft SQL Server, Azure SQL Database
 
 
-☁️ Cloud Experience
+### ☁️ Cloud Experience
 Azure App Service
 
 Azure SQL Database
@@ -33,10 +33,10 @@ CI/CD Integration
 
 Secure API deployments
 
-🌐 Connect with Me
+### 🌐 Connect with Me
 <p align="center"> <a href="https://www.linkedin.com/in/mykhailo-gerilovych/" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/> </a> <a href="https://t.me/miclasher" target="_blank"> <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white"/> </a> <a href="https://drive.google.com/file/d/1xkAaSTZkIxqfEdErRK17Q-ghpMYwpvdT/view?usp=sharing" target="_blank"> <img src="https://img.shields.io/badge/Resume-4B0082?style=for-the-badge&logo=adobeacrobatreader&logoColor=white"/> </a> </p>
 
-📊 GitHub Analytics
+### 📊 GitHub Analytics
 <p align="center"> <img width="49%" src="https://github-readme-stats.vercel.app/api?username=miclasher&show_icons=true&theme=github_dark&hide_border=true" /> <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=miclasher&theme=github-dark-blue&hide_border=true" /> </p> <p align="center"> <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=miclasher&theme=github_dark" /> <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=miclasher&theme=github_dark" /> </p>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=miclasher&color=0E75B6&style=flat-square&label=Profile+Views" alt="Profile Views" /> </p>
