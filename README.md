@@ -40,4 +40,3 @@ Secure API deployments
 <p align="center"> <img width="49%" src="https://github-readme-stats.vercel.app/api?username=miclasher&show_icons=true&theme=github_dark&hide_border=true" /> <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=miclasher&theme=github-dark-blue&hide_border=true" /> </p> <p align="center"> <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=miclasher&theme=github_dark" /> <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=miclasher&theme=github_dark" /> </p>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=miclasher&color=0E75B6&style=flat-square&label=Profile+Views" alt="Profile Views" /> </p>
-<p align="center"> <img src="https://tokei.rs/b1/github/miclasher/miclasher?category=code" alt="Lines of code" /> </p>
