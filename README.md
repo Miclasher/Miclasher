@@ -16,21 +16,24 @@ namespace Miclasher
 }
 ```
 <h3>🧠 Tech Stack</h3>
+
 Languages:       C#, HTML, CSS, SQL
+
 Frameworks:      .NET 8, ASP.NET Core, EF Core, Blazor, WPF
+
 Architecture:    Onion Architecture, REST APIs, JWT Auth
+
 Testing:         MSTest, Moq
+
 Tools:           Git, Swagger, Postman, Azure, Monobank API, Telegram API
+
 Databases:       Microsoft SQL Server, Azure SQL Database
 
 
 <h3>☁️ Cloud Experience</h3>
 Azure App Service
-
 Azure SQL Database
-
 CI/CD Integration
-
 Secure API deployments
 
 <h3>🌐 Connect with Me</h3>
