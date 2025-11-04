@@ -7,7 +7,7 @@
 // AboutMe.cs
 namespace Miclasher
 {
-    public class AboutMe
+    public sealed class AboutMe
     {
         public string Name => "Mykhailo Gerilovych";
         public string Role => "C# / .NET Developer";
