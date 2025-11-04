@@ -32,8 +32,11 @@ Databases:       Microsoft SQL Server, Azure SQL Database
 
 <h3>☁️ Cloud Experience</h3>
 Azure App Service
+
 Azure SQL Database
+
 CI/CD Integration
+
 Secure API deployments
 
 <h3>🌐 Connect with Me</h3>
