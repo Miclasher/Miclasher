@@ -1,16 +1,46 @@
-## Hi there 👋
+<!-- Fancy, Dark & Professional GitHub Profile README for Miclasher -->
 
-<!--
-**Miclasher/Miclasher** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">👋 Hi, I'm <span style="color:#4F9EC4;">Mykhailo Gerilovych</span></h1>
+<h3 align="center">C# / .NET Developer | Crafting scalable backend systems with clean architecture and solid code.</h3>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+```csharp
+// AboutMe.cs
+namespace Miclasher
+{
+    public class AboutMe
+    {
+        public string Name => "Mykhailo Gerilovych";
+        public string Role => "C# / .NET Developer";
+        public string Passion => "Building robust, elegant systems that just work.";
+        public string Motto => "Write code that feels right, not just runs right.";
+    }
+}
+```
+🧠 Tech Stack
+text
+Копировать код
+Languages:       C#, HTML, CSS, SQL
+Frameworks:      .NET 8, ASP.NET Core, EF Core, Blazor, WPF
+Architecture:    Onion Architecture, REST APIs, JWT Auth
+Testing:         MSTest, Moq
+Tools:           Git, Swagger, Postman, Azure, Monobank API, Telegram API
+Databases:       Microsoft SQL Server, Azure SQL Database
+☁️ Cloud Experience
+Azure App Service
+
+Azure SQL Database
+
+CI/CD Integration
+
+Secure API deployments
+
+📊 GitHub Analytics
+<p align="center"> <img width="49%" src="https://github-readme-stats.vercel.app/api?username=miclasher&show_icons=true&theme=github_dark&hide_border=true" /> <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=miclasher&theme=github-dark-blue&hide_border=true" /> </p> <p align="center"> <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=miclasher&theme=github_dark" /> <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=miclasher&theme=github_dark" /> </p>
+🏆 Developer Trophies
+<p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=miclasher&theme=darkhub&no-frame=true&no-bg=true&column=6" /> </p>
+🌐 Connect with Me
+<p align="center"> <a href="https://www.linkedin.com/in/mykhailo-gerilovych/" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/> </a> <a href="https://t.me/miclasher" target="_blank"> <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white"/> </a> <a href="https://drive.google.com/file/d/1xkAaSTZkIxqfEdErRK17Q-ghpMYwpvdT/view?usp=sharing" target="_blank"> <img src="https://img.shields.io/badge/Resume-4B0082?style=for-the-badge&logo=adobeacrobatreader&logoColor=white"/> </a> </p>
+
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=miclasher&color=0E75B6&style=flat-square&label=Profile+Views" alt="Profile Views" /> </p>
