@@ -19,7 +19,7 @@ namespace Miclasher
 
 Languages:       C#, HTML, CSS, SQL
 
-Frameworks:      .NET 8, ASP.NET Core, EF Core, Blazor, WPF
+Frameworks:      .NET 10, ASP.NET Core, EF Core, Blazor, WPF
 
 Architecture:    Onion Architecture, REST APIs, JWT Auth
 
