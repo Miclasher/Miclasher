@@ -38,11 +38,3 @@ Azure SQL Database
 CI/CD Integration
 
 Secure API deployments
-
-<h3>🌐 Connect with Me</h3>
-<p align="center"> <a href="https://www.linkedin.com/in/mykhailo-gerilovych/" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/> </a> <a href="https://t.me/miclasher" target="_blank"> <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white"/> </a> <a href="https://drive.google.com/file/d/1xkAaSTZkIxqfEdErRK17Q-ghpMYwpvdT/view?usp=sharing" target="_blank"> <img src="https://img.shields.io/badge/Resume-4B0082?style=for-the-badge&logo=adobeacrobatreader&logoColor=white"/> </a> </p>
-
-<h3>📊 GitHub Analytics</h3>
-<p align="center"> <img width="49%" src="https://github-readme-stats.vercel.app/api?username=miclasher&show_icons=true&theme=github_dark&hide_border=true" /> <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=miclasher&theme=github-dark-blue&hide_border=true" /> </p> <p align="center"> <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=miclasher&theme=github_dark" /> <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=miclasher&theme=github_dark" /> </p>
-
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=miclasher&color=0E75B6&style=flat-square&label=Profile+Views" alt="Profile Views" /> </p>
