@@ -11,6 +11,7 @@ namespace Miclasher
     {
         public string Name => "Mykhailo Gerilovych";
         public string Role => "C# / .NET Developer";
+        public string CommertialExperience => "2.5 years"
         public string Passion => "Building robust, elegant systems that just work.";
     }
 }
